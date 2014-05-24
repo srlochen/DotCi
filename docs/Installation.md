@@ -21,7 +21,7 @@
 ## DotCi plugin configuration
   Got to `Manage Jenkins`> `Configure System` and fill out required information under DotCi Configuration
 
-![dotci setup](/screenshots/dotci-plugin-configuration.png)
+![dotci setup](screenshots/dotci-plugin-configuration.png)
 
 
 ## Configure package management
