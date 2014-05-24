@@ -2,8 +2,8 @@
  ![Commit status](docs/screenshots/logos/jenkins.png) **+** ![Commit status](docs/screenshots/logos/github.png) **+** ![Commit status](docs/screenshots/logos/docker.png)
 ***
  - [Features](#features)
+ - [Installation](docs/Installation.md)
  - [Usage](docs/Usage.md)
- - [Setup](docs/Setup.md)
  - [Extending DotCi](docs/Extending.md)
  - [License](#license)
 
@@ -54,14 +54,14 @@
 
      ![branch history](docs/screenshots/branch-view.png)
 
- ###Usage
-   See: [Usage](docs/Usage.md)
 ###Setup
-   See:  [Setup](docs/Setup.md)
+   See:  [Installation](docs/Installation.md)
+###Usage
+   See: [Usage](docs/Usage.md)
 ###Extending DotCi
  See: [Extending DotCi](docs/Extending.md)
 ###License
-
+```
 The MIT License (MIT)
 
 Copyright (c) 2014, Groupon, Inc.
@@ -83,3 +83,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+```
