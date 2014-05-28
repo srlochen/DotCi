@@ -1,7 +1,8 @@
 ##DotCi - Jenkins github integration, .ci.yml.
  ![Commit status](docs/screenshots/logos/jenkins.png) **+** ![Commit status](docs/screenshots/logos/github.png) **+** ![Commit status](docs/screenshots/logos/docker.png)
 
-Brought to you by ![Commit status](docs/screenshots/logos/groupon.png)
+From the folks at:
+![Commit status](docs/screenshots/logos/groupon.png)
 ***
  - [Features](#features)
  - [Usage](docs/Usage.md)
